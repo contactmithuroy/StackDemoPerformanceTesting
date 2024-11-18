@@ -1,4 +1,4 @@
-# StackDemoPerformanceTesting
+# StackDemoPerformanceTesting 
 
 ## Overview
 This project evaluates the performance of the Stack Demo Website by:
@@ -13,6 +13,8 @@ The HTML reports include insights such as:
 - Throughput
 - Error Percentage
 ## Test Plan Structure
-Test Script: TravelAgencyRecordController.jmx
-Results File: results.jtl
-HTML Report Folder: HTMLFORTRAVELAGENCY
+- Test Script: TravelAgencyRecordController.jmx
+- Results File: results.jtl
+- HTML Report Folder: HTMLFORTRAVELAGENCY
+  ![image](https://github.com/user-attachments/assets/36e12f10-6faa-4342-81ae-a16bc594e712)
+
