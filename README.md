@@ -22,6 +22,7 @@ The HTML dashboard provides insights into the following metrics:
 
 ## Requests Summary:
 - Displays a pie chart of successful vs. failed requests.
+  
 ![Requests Summary (Pie Chart)](https://github.com/user-attachments/assets/f41eff9b-434c-4b28-8ed4-bffa51e32666)
 
 ## Statistics:
